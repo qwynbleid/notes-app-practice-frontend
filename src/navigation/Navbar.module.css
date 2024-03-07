@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background: #020000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -80px;
+    color: white;
+}
+
+.leftSide {
+    display: flex;
+    align-items: center;
+}
+
+.leftSide h1 {
+    margin-right: 20px;
+    font-size: 24px;
+    color: #333;
+}
